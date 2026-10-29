@@ -1,0 +1,29 @@
+[
+  {"q": "What does GV.SC-01 say?", "source": "nist_csf.pdf", "anchor": "GV.SC-01", "type": "id"},
+  {"q": "What does GV.OC-01 say?", "source": "nist_csf.pdf", "anchor": "GV.OC-01", "type": "id"},
+  {"q": "What does ID.AM-01 cover?", "source": "nist_csf.pdf", "anchor": "ID.AM-01", "type": "id"},
+  {"q": "What is PR.AA-05 about?", "source": "nist_csf.pdf", "anchor": "PR.AA-05", "type": "id"},
+  {"q": "Explain DE.CM-01", "source": "nist_csf.pdf", "anchor": "DE.CM-01", "type": "id"},
+  {"q": "What does RS.MA-01 require?", "source": "nist_csf.pdf", "anchor": "RS.MA-01", "type": "id"},
+  {"q": "What does RC.RP-01 say?", "source": "nist_csf.pdf", "anchor": "RC.RP-01", "type": "id"},
+  {"q": "What does PR.DS-01 say?", "source": "nist_csf.pdf", "anchor": "PR.DS-01", "type": "id"},
+  {"q": "What is Section 6 of the DPDP Act about?", "source": "dpdp_act.pdf", "anchor": "free, specific, informed, unconditional and unambiguous", "type": "id"},
+  {"q": "What does Section 9 of the DPDP Act say?", "source": "dpdp_act.pdf", "anchor": "verifiable consent of the parent", "type": "id"},
+
+  {"q": "How should organizations manage supply chain risk?", "source": "nist_csf.pdf", "anchor": "supply chain risk management processes", "type": "concept"},
+  {"q": "How should organizations protect data at rest?", "source": "nist_csf.pdf", "anchor": "data-at-rest", "type": "concept"},
+  {"q": "What must a Data Fiduciary do after a personal data breach?", "source": "dpdp_act.pdf", "anchor": "intimation of such breach", "type": "concept"},
+  {"q": "Can personal data be transferred outside India?", "source": "dpdp_act.pdf", "anchor": "outside the territory of india", "type": "concept"},
+  {"q": "What is the penalty for failing to take reasonable security safeguards?", "source": "dpdp_act.pdf", "anchor": "two hundred and fifty crore", "type": "concept"},
+  {"q": "Can a Data Principal ask for correction or erasure of their data?", "source": "dpdp_act.pdf", "anchor": "correction and erasure", "type": "concept"},
+  {"q": "What is a Statement of Applicability in ISO 27001?", "source": "iso27001_summary.pdf", "anchor": "statement of applicability", "type": "concept"},
+  {"q": "How often must internal audits be conducted for the ISMS?", "source": "iso27001_summary.pdf", "anchor": "conduct internal audits at planned intervals", "type": "concept"},
+  {"q": "What must organizations do about nonconformities in ISO 27001?", "source": "iso27001_summary.pdf", "anchor": "nonconformity and corrective action", "type": "concept"},
+  {"q": "What does top management have to do about the information security policy?", "source": "iso27001_summary.pdf", "anchor": "top management shall establish an information security policy", "type": "concept"},
+
+  {"q": "Who won the 2018 FIFA World Cup?", "source": null, "anchor": null, "type": "out_of_scope"},
+  {"q": "What is a good recipe for butter chicken?", "source": null, "anchor": null, "type": "out_of_scope"},
+  {"q": "How do I configure a BGP session on a Cisco router?", "source": null, "anchor": null, "type": "out_of_scope"},
+  {"q": "What is the capital of Australia?", "source": null, "anchor": null, "type": "out_of_scope"},
+  {"q": "Explain the LBW rule in cricket.", "source": null, "anchor": null, "type": "out_of_scope"}
+]
